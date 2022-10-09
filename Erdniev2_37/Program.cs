@@ -1,10 +1,7 @@
-﻿namespace Csharpe
+﻿namespace Erdniev2_27
 {
     class Program
     {
-
-
-
         static void Main(string[] args)
         {
             int[] g = new int[90];
