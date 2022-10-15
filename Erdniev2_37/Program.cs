@@ -1,4 +1,4 @@
-﻿namespace Erdniev2_27
+﻿namespace Erdniev2_37
 {
     class Program
     {
@@ -62,7 +62,7 @@
                         num++;
                         if (c3 == g[i] / 10 || c3 == g[i] - g[i] / 10 * 10)
                         {
-                            Console.Write(num + ";");
+                            Console.Write(num + " ");
                         }
                         j = 0;
                     }
@@ -81,7 +81,7 @@
                         num++;
                         if (c2 == g[i] / 10 || c2 == g[i] - g[i] / 10 * 10)
                         {
-                            Console.Write(num + ";");
+                            Console.Write(num + " ");
                         }
                         j = 0;
                     }
@@ -100,7 +100,7 @@
                         num++;
                         if (c1 == g[i] / 10 || c1 == g[i] - g[i] / 10 * 10)
                         {
-                            Console.Write(num + ";");
+                            Console.Write(num + " ");
                         }
                         j = 0;
                     }
@@ -118,7 +118,7 @@
                     {
                         if (c3 == g[i] / 10 || c3 == g[i] - g[i] / 10 * 10)
                         {
-                            Console.Write(g[i] + ";");
+                            Console.Write(g[i] + " ");
                         }
                         j = 0;
                     }
@@ -135,7 +135,7 @@
                     {
                         if (c2 == g[i] / 10 || c2 == g[i] - g[i] / 10 * 10)
                         {
-                            Console.Write(g[i] + ";");
+                            Console.Write(g[i] + " ");
                         }
                         j = 0;
                     }
@@ -152,7 +152,7 @@
                     {
                         if (c1 == g[i] / 10 || c1 == g[i] - g[i] / 10 * 10)
                         {
-                            Console.Write(g[i] + ";");
+                            Console.Write(g[i] + " ");
                         }
                         j = 0;
                     }
